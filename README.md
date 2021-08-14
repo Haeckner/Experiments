@@ -1,2 +1,3 @@
 # Experiments
-My experiments and education
+My experiments in PHP.
+For learning purposes.
